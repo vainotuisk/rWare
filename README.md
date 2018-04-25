@@ -1,3 +1,3 @@
 RWare
 
-IT riistvara halduse
+IT riistvara haldus

@@ -1,0 +1,9 @@
+export const LANDING = '/';
+export const HOME = '/home';
+export const ASJAD = '/asjad';
+export const RUUMID = '/ruumid';
+export const ARUANDED = '/aruanded';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const ADMIN = '/admin';
+export const PASSWORD_FORGET = '/pw-forget';
